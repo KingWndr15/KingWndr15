@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KingWndr15
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning cloud programming
 - 💞️ I’m looking to collaborate on a big project
 - 📫 How to reach me abrahameyaife@gmail.com
