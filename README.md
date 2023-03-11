@@ -2,4 +2,5 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning cloud programming
 - 💞️ I’m looking to collaborate on a big project
-- 📫 How to reach me abrahameyaife@gmail.com
+- 😉 I'm someone who values great user experiences, elegant solutions and innovative problem-solving.
+- 📫 How to reach me abrahameyaife@hotmail.com
