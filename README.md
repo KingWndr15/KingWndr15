@@ -7,4 +7,4 @@
  and innovative problem-solving.
 - ⚡ Fun fact I have a passion for basketball, but I have never played it before.
 - 🤖 I play minecraft
-- 📫 How to reach me abrahameyaife@hotmail.com
+- 📫 How to reach me abrahameyaife@gmail.com
