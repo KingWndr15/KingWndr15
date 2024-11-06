@@ -1,9 +1,4 @@
-# Hi there, Abraham here! 
----
-Frontend Engineer at Kidsclub (React, Nuxt, Vue).  Building engaging experiences & exploring Cloud Dev (AWS). ☁️
-
-Open to: Collaborations, Mentorship, Frontend Dev roles.
-
-Connect: LinkedIn: Abraham Eyaife | Email: abrahameyaife@gmail.com
-
+#👋 Abraham Eyaife!
 (Coffee keeps me coding! ☕️)
+Frontend Engineer at Boltcliq (React, Nuxt, Vue).  Building engaging experiences & exploring Cloud Dev (AWS). ☁️
+Feel free to contact me at [abrahameyaife@hotmail.com] or connect on LinkedIn [https://www.linkedin.com/in/abraham-eyaife/].
